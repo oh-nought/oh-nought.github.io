@@ -7,5 +7,5 @@
 - title: projects
   url: 'projects'
 
-- default: menu_about
+- title: about
   url: 'about'
