@@ -3,23 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+## me
+Hi. I'm a third-year student at the University of Florida studying Computer Science. While my academics keep me grounded in theory, my true passion lies in **data engineering** and **MLOps**, or more broadly, the 'behind the scenes' of AI.
 
-## Present
-Testing.
+I also like to (attempt to) cook, play + watch basketball, and indulge in motion pictures that tickle my fancy.
 
-## Past
-Testing.
 
-## Future
-Testing
+## contact 
+The easiest way to contact me is through email at [sanchezner.orange@gmail.com](mailto:sanchezner.orange@gmail.com).
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+## resume
+View my resume here: [resume]
 
-You can find more information in [Jekyll Paper][jekyll-paper] or [Jekyll Paper for Github][jekyll-paper-github]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues], [Jekyll Paper for Github Issues][jekyll-paper-github-issues] or send email to [me](mailto:i@ghosind.com). 
-
-Wish you enjoying your blog life!
-
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
-[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues
+[jekyll-paper]: 
