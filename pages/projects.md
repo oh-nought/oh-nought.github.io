@@ -4,9 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-[]
-
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
-[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues
+<a class="clickable" href="" target="_blank">ball don't lie [WIP]</a>: query and discover referee bias (or lack thereof) for teams and players in the NBA
+<a class="clickable" href="https://github.com/oh-nought/LANdToss" target="_blank"> LANdToss</a>: like AirDrop but on your LAN... and you toss files, not drop...
